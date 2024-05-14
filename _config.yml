@@ -8,20 +8,20 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Guowei Sun / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Guowei Sun"
+description              : &description "A third year graduate student from USTC."
 url                      : https://mrsun0.github.io/gwsun.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mrsun0.github.io/gwsun.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gws.png"
+  avatar           : "life.png"
   name             : "Guowei Sun"
   pronouns         :  he/him # example: "she/her"  
   bio              : "A graduate student study at USTC."
