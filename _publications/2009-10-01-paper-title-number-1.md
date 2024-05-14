@@ -12,7 +12,7 @@ issue that can seriously degrade the whole routing efficiency
 (even if the total wirelength is small)..'
 date: 2023-11-30
 venue: 'ICCAD 2023'
-paperurl: '[https://mrsun0.github.io/gwsun.github.io/files/Routing_Wirelength_Timing.pdf]'
+paperurl: 'https://mrsun0.github.io/gwsun.github.io/files/Routing_Wirelength_Timing.pdf'
 citation: 'L. Yang, G. Sun and H. Ding, "Towards Timing-Driven Routing: An Efficient Learning Based Geometric Approach," 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, USA, 2023, pp. 1-9, doi: 10.1109/ICCAD57390.2023.10323981. keywords: {Heating systems;Geometry;Design automation;Neural networks;Routing;Delays;Task analysis},
 
 '
