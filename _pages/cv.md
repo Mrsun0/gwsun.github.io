@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+\customcventry{2021-2024}{\color{blue}\href{https://www.ustc.edu.cn/}{University of Science and Technology of China}}{Master of Computer Technology}{Anhui, CHINA}{}{}{Related Courses: Theories and Design of Distributed Algorithms, Machine Learning, Deep Learning, Advanced Computer Networks, etc.}
+
+\customcventry{2017-2021}{\color{blue}\href{https://www.cup.edu.cn/}{China University of Petroleum (Beijing)}}{Bachelor of Computer Science and Technology}{BeiJing, CHINA}{}{}{Related Courses: Data Structures, Software Engineering, Design Patterns, and other core computer science courses}
 
 Work experience
 ======
@@ -46,19 +46,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
