@@ -11,14 +11,9 @@ redirect_from:
 
 Education
 ======
-  ---------------------------------------------------------------------------------------------------------------- -------------------------------
   **Master of Computer Technology**  *[University of Science and Technology of China](https://www.ustc.edu.cn/)*    **Anhui, CHINA**  *2021-2024*
-  ----------------------------------------------------------------------------------------------------------------  -------------------------------
 
-
-  -----------------------------------------------------------------------------------------------------------------------  ---------------------------------
   **Bachelor of Computer Science and Technology**  *[China University of Petroleum (Beijing)](https://www.cup.edu.cn/)*  **BeiJing, CHINA**  *2017-2021*
-  -----------------------------------------------------------------------------------------------------------------------  ---------------------------------
 
 
 Research Experience
@@ -28,17 +23,15 @@ artificial intelligence. Focus on backend design in graph theory
 algorithms, studying Placement and Global Routing.
 
 
-  -------------------------------------------------------------------------------------------------------------------------------------------
   **- Timing-Rectilinear Steiner Tree,**  *[IEEE PDF](https://ieeexplore.ieee.org/document/10323981)* **Anhui, China**  *1/2023 ‐ 06/2023*
-  -------------------------------------------------------------------------------------------------------------------------------------------
+
 
 & Co-first author paper on timing-driven routing, \"Towards
 Timing-Driven Routing: An Efficient Learning-Based Geometric Approach,\"
 officially accepted by ICCAD 2023 (CCF-B) and published. &
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **- Skew-Rectilinear Steiner Tree,**  *[Multi-Source-Prim-Dijkstra](https://github.com/TILOS-AI-Institute/Multi-Source-Prim-Dijkstra)* **Anhui, China**  *12/2023 ‐ Present*
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 & First place in OpenROAD competition with research on routing based on
 skew-cost minimization, awarded \$2500. The competition is supported by
@@ -46,18 +39,18 @@ UCSD, OpenRoad and DARPA. The results will be submitted to ICCAD 2024 &
 
 Internship Experience
 ======
-  -----------------------------------------------------------------------------------------------------------------
+
   **- Huawei,Software Development Engineer**  *[](https://google.com/)* **Shanghai, China**  *7 /2023 - 9 /2023*
-  -----------------------------------------------------------------------------------------------------------------
+
   
 Worked on the development of Linux kernel and Android audio drivers
 for new chips like HiSilicon; refactored device management and audio
 algorithm mode switching in the proprietary normalized HAL layer using
 the Abstract Factory pattern. 
 
-  --------------------------------------------------------------------------------- ---------------------------------------
+
   **- iFlytek, Assistant Research Algorithm Engineer**  *[](https://google.com/)* **Hefei, China**  *2/ 2023 - 4/ 2023*
-  ------------------------------------------------------------------------------------------------------------------------
+
 
 & Conducted research on natural language understanding and reinforcement
 learning for medical dialogue models, handling real doctor-patient
