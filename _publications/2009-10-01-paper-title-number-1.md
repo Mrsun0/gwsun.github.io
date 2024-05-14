@@ -26,7 +26,7 @@ both the max path length and total wirelength for modeling our
 optimization objective, since the path delay often causes timing
 issue that can seriously degrade the whole routing efficiency
 (even if the total wirelength is small). Comparing with most of
-the previous works that only considering wirelength, the timingdriven routing objective is much more challenging to optimize.
+the previous works that only considering wirelength, the timing-driven routing objective is much more challenging to optimize.
 We propose an efficient learning-based approach together with
 several novel insights in geometry. For moderate-degree nets,
 our approach can yield a better smooth trade-off between the
