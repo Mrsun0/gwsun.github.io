@@ -30,8 +30,8 @@ the previous works that only considering wirelength, the timing-driven routing o
 We propose an efficient learning-based approach together with
 several novel insights in geometry. For moderate-degree nets,
 our approach can yield a better smooth trade-off between the
-wirelength and max path length comparing with the state-ofthe-art methods. For large-degree nets, we propose an elegant
-and easy-to-implement geometric data structure called “datadependent polar quadtree” in the space; using this structure, we
+wirelength and max path length comparing with the state-of-the-art methods. For large-degree nets, we propose an elegant
+and easy-to-implement geometric data structure called “data-dependent polar quadtree” in the space; using this structure, we
 can successfully plug our learning-based approach into a divide
 & merge framework and the optimization quality over the whole
 instance can be well preserved.
