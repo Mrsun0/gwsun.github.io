@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Papers"
 permalink: /publications/
 author_profile: true
 ---
@@ -15,4 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-teset!!!
+#Patents
+		- 一种适用于芯片倾斜布线的连通图生成方法 (2024102402830)（已授权） 丁虎，\textbf{\underline{孙国伟}}，杨丽莹
+		- 一种芯片布线中连通图的生成方法 (2023114276571)（已公开） 丁虎，\textbf{\underline{孙国伟}}，杨丽莹
