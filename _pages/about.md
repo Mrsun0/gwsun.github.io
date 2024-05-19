@@ -26,3 +26,5 @@ Academic Engagements
 - **1st CCF Chip 2022**, Nanjing: Engaged in idea exchange with peers and experts.
 - **ICCAD 2023 Conference**, USA: Presentation and discussion.
 - **The 2022 Peking University Workshop on Applied Mathematics**: Participated in specialized workshop on applied mathematics and EDA.
+
+Further information can be found at my cv, download [here](/files/GuoweiSun-CV.pdf)~.
