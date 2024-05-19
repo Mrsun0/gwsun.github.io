@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-======
 I am a graduate student at the University of Science and Technology of China (USTC), where I am pursuing a major in Computer Technology. I completed my undergraduate studies at the China University of Petroleum Beijing (CUPB). Currently, I am conducting research under the supervision of Professor Hu Ding, focusing on Electronic Design Automation (EDA), computational geometry, and artificial intelligence.
 
 My primary research interest lies in addressing placement and routing problems within the domain of EDA. I have authored several papers published in top-tier conferences and hold patents related to my research. I am proficient in both C++ and Python, and I frequently share insights and tutorials on these programming languages through my blog.
