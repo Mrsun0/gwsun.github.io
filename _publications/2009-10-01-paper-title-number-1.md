@@ -3,7 +3,7 @@ title: "Towards Timing-Driven Routing: An Efficient Learning Based Geometric App
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2023-11-30
-venue: 'ICCAD'
+venue: 'IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023.'
 paperurl: 'https://mrsun0.github.io/gwsun.github.io/files/Routing_Wirelength_Timing.pdf'
 author: '*Liying Yang, * <strong>Guowei Sun</strong> and Hu Ding (*Co-author)'
 status: 'Published'
