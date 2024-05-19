@@ -5,6 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 2023-11-30
 venue: 'ICCAD'
 paperurl: 'https://mrsun0.github.io/gwsun.github.io/files/Routing_Wirelength_Timing.pdf'
+author: '*LiYing Yang, * **Guowei Sun** and Hu Ding(Co-author)'
 excerpt: '*LiYing Yang, * **Guowei Sun** and Hu Ding(Co-author)'
 citation: 'L. Yang, G. Sun and H. Ding, "Towards Timing-Driven Routing: An Efficient Learning Based Geometric Approach," 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, USA, 2023, pp. 1-9, doi: 10.1109/ICCAD57390.2023.10323981. keywords: {Heating systems;Geometry;Design automation;Neural networks;Routing;Delays;Task analysis},
 
