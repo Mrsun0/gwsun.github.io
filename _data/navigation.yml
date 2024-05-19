@@ -15,8 +15,8 @@ main:
   - title: "Blog Website -->"
     url: https://www.cnblogs.com/fireinstone
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
