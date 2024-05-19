@@ -16,7 +16,7 @@ Recently, I was honored with the Outstanding Graduate Award from USTC for the ye
 Selected Award
 ======
 - Outstanding Graduate Award from USTC (2024).
-- **First Prize** in USTC Academic Scholarship twice for the year 2022, 2023, Second prize once in USTC Academic Scholarship for the year 2021.
+- **First Prize** in USTC Academic Scholarship twice for the year 2022, 2023.
 - **First place** in OpenRoad contest for solving the Cost-Skew problem in 2023.
 - **First Prize** in the 31st Beijing Mathematics Competition in 2020.
 
