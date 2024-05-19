@@ -2,6 +2,8 @@
 title: "About Cost-Skew problem (anonymity)"
 collection: Under-review
 permalink: /publication/2010-10-01-paper-title-number-2
+venue: 'IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2024.'
+status: 'Under-review'
 author: 'Guowei Sun, ...'
 date: 2024-5-10
 ---
