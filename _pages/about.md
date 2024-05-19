@@ -20,3 +20,10 @@ Selected Award
 - **First Prize** in USTC Academic Scholarship twice for the year 2022, 2023, Second prize once in USTC Academic Scholarship for the year 2021.
 - **First place** in OpenRoad contest for solving the Cost-Skew problem in 2023.
 - **First Prize** in the 31st Beijing Mathematics Competition.
+
+Academic Engagements
+======
+- Pengcheng Laboratory for knowledge sharing and academic discussions, Shenzhen.
+- 1st CCF Chip 2022 for idea exchange, NanJing.
+- ICCAD 2023 conference for research presentation, USA.
+- The 2022 Peking University Workshop on Applied Mathematics.
