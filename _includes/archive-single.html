@@ -33,13 +33,11 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="font-size: 1em; color: #00008b; text-decoration: none; font-weight: normal">{{ title }}</a>
       {% endif %}
     </h2>
-    <p class="author-name" style="font-size: 0.95em; color: #777; margin-top: 1px;">{{ post.author}}</p>
+    <p class="author-name" style="font-size: 0.95em; color: #777; margin-top: 1px; margin-bottom: 1px">{{ post.author}}</p>
     {% if post.read_time %}
       <p> have post.read_time </p>
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-<p style="margin-bottom: 1px;"> have post.read_time? </p>
-    <p style="margin-top: 1px;"> have post.read_time---########## </p>
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
