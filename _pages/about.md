@@ -7,6 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Profile
 ======
-I am a graduate student majoring in computer science, engaging in research on EDA, computational geometry, and artificial intelligence throughout my university years. I have published several papers in top conferences and have corresponding patents. My main research focus is on placement and routing problems. Additionally, I am proficient in C++ and Python, with most of my code written in this language. Lastly, I have been honored with the Outstanding Graduate Award from the University of Science and Technology of China for the year 2024.
+I am a graduate student at the University of Science and Technology of China (USTC), where I am pursuing a major in Computer Technology. I completed my undergraduate studies at the China University of Petroleum Beijing (CUPB). Currently, I am conducting research under the supervision of Professor Hu Ding, focusing on Electronic Design Automation (EDA), computational geometry, and artificial intelligence.
+
+My primary research interest lies in addressing placement and routing problems within the domain of EDA. I have authored several papers published in top-tier conferences and hold patents related to my research. I am proficient in both C++ and Python, and I frequently share insights and tutorials on these programming languages through my blog.
+
+Recently, I was honored with the Outstanding Graduate Award from USTC for the year 2024.
+
+Selected Award
+======
+- Outstanding Graduate Award from USTC (2024).
+- **First Prize** in USTC Academic Scholarship twice for the year 2022, 2023, Second prize once in USTC Academic Scholarship for the year 2021.
+- **First place** in OpenRoad contest for solving the Cost-Skew problem in 2023.
+- **First Prize** in the 31st Beijing Mathematics Competition.
