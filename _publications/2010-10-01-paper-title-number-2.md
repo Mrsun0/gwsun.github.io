@@ -2,7 +2,7 @@
 title: "About Cost-Skew problem (anonymity)"
 collection: Under-review
 permalink: /publication/2010-10-01-paper-title-number-2
-author:'Guowei Sun, ...'
+author: 'Guowei Sun, ...'
 date: 2024-5-10
 ---
 This work win the First place in OpenROAD competition with research on routing based on skew-cost minimization, awarded $2500. The competition
