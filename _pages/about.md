@@ -22,7 +22,7 @@ Selected Award
 
 Academic Engagements
 ======
-- **Pengcheng Laboratory**, Shenzhen: Presented research and participated in academic discussions.
+- **Pengcheng Laboratory**, Shenzhen: Presentation, discussion and visiting.
 - **1st CCF Chip 2022**, Nanjing: Engaged in idea exchange with peers and experts.
-- **ICCAD 2023 Conference**, USA: Presented research findings.
+- **ICCAD 2023 Conference**, USA: Presentation and discussion.
 - **The 2022 Peking University Workshop on Applied Mathematics**: Participated in specialized workshop on applied mathematics and EDA.
