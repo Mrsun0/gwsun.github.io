@@ -27,4 +27,4 @@ Academic Engagements
 - **ICCAD 2023 Conference**, USA: Presentation and discussion.
 - **The 2022 Peking University Workshop on Applied Mathematics**: Participated in specialized workshop on applied mathematics and EDA.
 
-Further information can be found at my cv, download [here](/files/GuoweiSun-CV.pdf)~.
+Further information can be found at my cv, download [here](/files/GuoweiSun_CV.pdf)~.
