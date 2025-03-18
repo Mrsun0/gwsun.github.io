@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+As a recent graduate with a Master's degree in Computer Science from the  [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).I completed my undergraduate studies at the [China University of Petroleum Beijing (CUPB)](https://www.cup.edu.cn/english/).  I specialized in research areas including Electronic Design Automation (EDA) and artificial intelligence. During my academic years, I published two papers in top-tier conferences and secured corresponding patents. I was honored with the Outstanding Graduate Award in 2024 for my academic achievements.
 
-I am a graduate student at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), where I am pursuing a major in Computer Technology. I completed my undergraduate studies at the [China University of Petroleum Beijing (CUPB)](https://www.cup.edu.cn/english/). Currently, I am conducting research under the supervision of [Prof. Hu Ding](https://hu-ding.github.io/), focusing on Electronic Design Automation (EDA), computational geometry, and artificial intelligence. Further information can be found at my cv, download [here](/gwsun.github.io/files/GuoweiSun_CV.pdf)~.
+In the time since graduation(over 9 months), while working in the industry, I have remained actively engaged with the latest research developments. I successfully extended my master's research and submitted it to the Design Automation Conference (DAC 2025), where it was accepted. Meanwhile, my industrial experience has further honed my programming skills, particularly in C++ and Python, enabling me to develop more efficient and scalable solutions.
 
-My primary research interest lies in addressing placement and routing problems within the domain of EDA. I have authored several papers published in top-tier conferences and hold patents related to my research. I am proficient in both C++ and Python, and I frequently share insights and tutorials on these programming languages through [my blog](https://www.cnblogs.com/fireinstone/).
+Further information can be found at my cv, download [here](/gwsun.github.io/files/GuoweiSun_CV.pdf)~.
 
-Recently, I was honored with the Outstanding Graduate Award from USTC for the year 2024.
 
 Selected Award
 ======
