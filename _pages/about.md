@@ -10,7 +10,7 @@ As a recent graduate with a Master's degree in Computer Science from the  [Unive
 
 In the time since graduation(over 9 months), while working in the industry, I have remained actively engaged with the latest research developments. I successfully extended my master's research and submitted it to the Design Automation Conference (DAC 2025), where it was accepted. Meanwhile, my industrial experience has further honed my programming skills, particularly in C++ and Python, enabling me to develop more efficient and scalable solutions.
 
-Further information can be found at my cv, download [here](/gwsun.github.io/files/GuoweiSun_CV.pdf)~.
+Further information can be found at my cv, download [here](/gwsun.github.io/files/CV.pdf)~.
 
 
 Selected Award
