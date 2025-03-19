@@ -2,6 +2,7 @@
 title: "About Cost-Skew problem (anonymity)"
 collection: Accepted
 permalink: /publication/2010-10-01-paper-title-number-2
+paperurl: 'https://mrsun0.github.io/gwsun.github.io/files/24DAC_skew.pdf'
 venue: 'IEEE/ACM Design Automation Conference (DAC), 2025.'
 status: 'Accepted'
 author: '<strong>Guowei Sun*</strong>, Lin Chen*, Qiming Huang, Hu Ding'
