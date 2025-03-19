@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-As a recent graduate with a Master's degree in Computer Science from the  [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).I completed my undergraduate studies at the [China University of Petroleum Beijing (CUPB)](https://www.cup.edu.cn/english/).  I specialized in research areas including Electronic Design Automation (EDA) and artificial intelligence. During my academic years, I published two papers in top-tier conferences and secured corresponding patents. I was honored with the Outstanding Graduate Award in 2024 for my academic achievements.
+As a recent graduate with a Master's degree in Computer Science from the  [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).I completed my undergraduate studies at the [China University of Petroleum Beijing (CUPB)](https://www.cup.edu.cn/english/).  Under the guidance of Prof. [Hu Ding](https://hu-ding.github.io/),I specialized in research areas including Electronic Design Automation (EDA) and artificial intelligence. During my academic years, I published two papers in top-tier conferences and secured corresponding patents. I was honored with the Outstanding Graduate Award in 2024 for my academic achievements.
 
 In the time since graduation(over 9 months), while working in the industry, I have remained actively engaged with the latest research developments. I successfully extended my master's research and submitted it to the Design Automation Conference (DAC 2025), where it was accepted. Meanwhile, my industrial experience has further honed my programming skills, particularly in C++ and Python, enabling me to develop more efficient and scalable solutions.
 
