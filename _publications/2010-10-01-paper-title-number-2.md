@@ -6,7 +6,7 @@ paperurl: 'https://mrsun0.github.io/gwsun.github.io/files/24DAC_skew.pdf'
 venue: 'IEEE/ACM Design Automation Conference (DAC), 2025.'
 status: 'Accepted'
 author: '<strong>Guowei Sun*</strong>, Lin Chen*, Qiming Huang, Hu Ding'
-date: 2025-06
+date: 2025-06-20
 ---
 In chip design, skew is a pivotal factor that signif-
 icantly influences the overall performance for routing. A major
