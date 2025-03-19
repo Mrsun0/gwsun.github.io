@@ -1,5 +1,5 @@
 ---
-title: "About Cost-Skew problem (anonymity)"
+title: "To Tackle Cost-Skew Tradeoff: An Adaptive Learning Approach for Hub Node Selection"
 collection: Accepted
 permalink: /publication/2010-10-01-paper-title-number-2
 paperurl: 'https://mrsun0.github.io/gwsun.github.io/files/24DAC_skew.pdf'
