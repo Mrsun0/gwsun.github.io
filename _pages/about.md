@@ -17,7 +17,7 @@ Selected Award
 ======
 - **Outstanding Graduate Award** from USTC (2024).
 - **First Prize** in USTC Academic Scholarship twice (2022, 2023).
-- **First place** in OpenRoad contest for solving the Cost-Skew problem (2023).
+- **First place** in **OpenRoad contest** for solving the Cost-Skew problem (2023)，** $2500 bonus**.
 - **First Prize** in the 31st Beijing Mathematics Competition (2020).
 
 Academic Engagements
